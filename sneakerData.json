@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Force 1",
+    "description": "A classic sneaker with a sleek, low-cut design and durable leather upper.",
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e777c881-5b62-4250-92a6-362967f54cca/calzado-air-force-1-07-Dz225W.png",
+    "price": 90.00
+  },
+  {
+    "id": 2,
+    "name": "Adidas Superstar",
+    "description": "An iconic sneaker with a signature rubber shell toe and leather upper.",
+    "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed0855435194229a525aad6009a0497_9366/Tenis_Superstar_Blanco_EG4958_01_standard.jpg",
+    "price": 80.00
+  },
+  {
+    "id": 3,
+    "name": "Jordan 1 Retro High",
+    "description": "A classic basketball sneaker with a high-cut design and sleek leather upper.",
+    "image": "https://www.innvictus.com/medias/tenis-air-jordan-1-retro-high-og-university-blue-in-555088-134-1.png?context=bWFzdGVyfGltYWdlc3wxMDYwMXxpbWFnZS9wbmd8aW1hZ2VzL2hiOC9oMWYvMTAwNDc0MTIzMDU5NTAucG5nfDQzOGZjNDNkYmQ2ZmFlMDk5NDgzYzljNmJlYmMwMGQ3NzY4NWQzYzZlZTAwMzA2MWM0ODdmYmI5MWM0YjU5ODI",
+    "price": 160.00
+  },
+  {
+    "id": 4,
+    "name": "Converse Chuck Taylor All Star",
+    "description": "A timeless sneaker with a canvas upper and signature rubber toe cap.",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/toqshuuheqdl3ljzobnc/calzado-converse-chuck-taylor-all-star-high-top-xX439O.png",
+    "price": 55.00
+  },
+  {
+    "id": 5,
+    "name": "New Balance 990v5",
+    "description": "A comfortable running shoe with a durable pigskin and mesh upper.",
+    "image": "https://m.media-amazon.com/images/I/71EYGFxxNYL._AC_SL1500_.jpg",
+    "price": 175.00
+  },
+  {
+    "id": 6,
+    "name": "Vans Old Skool",
+    "description": "A classic skate shoe with a low-cut profile and durable canvas and suede upper.",
+    "image": "https://m.media-amazon.com/images/I/71bsjxWjrxL._AC_SL1500_.jpg",
+    "price": 60.00
+  },
+  {
+    "id": 7,
+    "name": "Puma Suede Classic",
+    "description": "A retro sneaker with a soft suede upper and signature Puma stripe.",
+    "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_706,h_706/global/374915/01/sv01/fnd/MEX/fmt/png/",
+    "price": 65.00
+  },
+  {
+    "id": 8,
+    "name": "Reebok Classic Leather",
+    "description": "A timeless sneaker with a soft leather upper and signature Reebok logo.",
+    "image": "https://dpjye2wk9gi5z.cloudfront.net/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/zoom/1023814-0101V1.jpg",
+    "price": 75.00
+  },
+  {
+    "id": 9,
+    "name": "Saucony Jazz Original",
+    "description": "A classic running sneaker with a suede and nylon upper and cushioned EVA midsole.",
+    "image": "https://m.media-amazon.com/images/I/51ZBqpg--qL._AC_SY395_.jpg",
+    "price": 60.00
+  },
+  {
+    "id": 10,
+    "name": "Asics Gel-Lyte III",
+    "description": "A retro sneaker with a breathable mesh and leather upper and signature split tongue design.",
+    "image": "https://cdn.shopify.com/s/files/1/0463/5852/8160/products/537126ed-bd5b-4ef1-b8bc-648bc718ccca.jpg?v=1666119684",
+    "price": 35.00
+  },
+  {
+    "id": 11,
+    "name": "Puma Basket Classic",
+    "description": "The Puma Basket Classic is a casual sneaker with a timeless design that features a clean and simple leather upper.",
+    "image": "https://m.media-amazon.com/images/I/71OmpZ9h0oL._AC_UF1000,1000_QL80_.jpg",
+    "price": 65.0
+  },
+  {
+    "id": 12,
+    "name": "New Balance 990v4",
+    "description": "The New Balance 990v4 is a comfortable and supportive running shoe that features a durable pigskin and mesh upper.",
+    "image": "https://images.stockx.com/images/New-Balance-990v4-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1637172598",
+    "price": 174.99
+  },
+  {
+    "id": 13,
+    "name": "Saucony Jazz Original Vintage",
+    "description": "The Saucony Jazz Original Vintage is a classic running sneaker that features a combination of suede and nylon in the upper.",
+    "image": "https://s7d4.scene7.com/is/image/WolverineWorldWide/S70368-10_1?wid=584&hei=484&fmt=jpeg&qlt=80,0&op_sharpen=0&resMode=bilin&op_usm=0.5,1.0,8,0&iccEmbed=0&printRes=72",
+    "price": 70.0
+  },
+  {
+    "id": 14,
+    "name": "Adidas Originals SL 72",
+    "description": "The Adidas Originals SL 72 is a retro running sneaker that features a lightweight and breathable nylon upper.",
+    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/d15ad11da1ae4584b18dab0b00ed0daa_9366/Tenis_SL_72_Azul_EG6849_01_standard.jpg",
+    "price": 79.99
+  },
+  {
+    "id": 15,
+    "name": "Nike Blazer Mid 77",
+    "description": "The Nike Blazer Mid 77 is a versatile sneaker that features a soft and supportive leather upper.",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7f2528f8-eca7-48d5-8ce1-ade41e06381b/calzado-talla-grande-blazer-mid-77-fQhb6q.png",
+    "price": 70.0
+  },
+  {
+    "id": 16,
+    "name": "Asics Gel-Kayano 5 OG",
+    "description": "The Asics Gel-Kayano 5 OG is a retro running sneaker that features a unique design with a bulky silhouette and a combination of leather and mesh in the upper.",
+    "image": "https://images.stockx.com/images/Asics-Gel-Kayano-5-OG-White-Black-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=webp&auto=compress&dpr=2&trim=color&updated_at=1613152236&q=75",
+    "price": 120.0
+  },
+  {
+    "id": 17,
+    "name": "Fila Original Fitness",
+    "description": "The Fila Original Fitness is a retro tennis sneaker that features a clean and simple design with a leather upper and perforated details.",
+    "image": "https://m.media-amazon.com/images/I/71FlfXYWuSL._AC_UF1000,1000_QL80_.jpg",
+    "price": 52.00
+  }
+]

@@ -1,0 +1,12 @@
+[  
+  {    "id": 1,    "brand": "Adidas",    "logo": "https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-Adidas.jpg"  },  
+  {    "id": 2,    "brand": "Nike",    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Old_Nike_logo.jpg/270px-Old_Nike_logo.jpg"  },  
+  {    "id": 3,    "brand": "Puma",    "logo": "https://www.america-retail.com/static//2022/03/puma.png"  },  
+  {    "id": 4,    "brand": "Reebok",    "logo": "https://www.brandemia.org/wp-content/uploads/2014/03/Reebok-Portada.jpg"  },  
+  {    "id": 5,    "brand": "New Balance",    "logo": "https://1000marcas.net/wp-content/uploads/2020/01/New-Balance-logo.jpg"  },  
+  {    "id": 6,    "brand": "Converse",    "logo": "https://1000marcas.net/wp-content/uploads/2020/01/Converse-Logo-5.png"  },  
+  {    "id": 7,    "brand": "Vans",    "logo": "https://1000marcas.net/wp-content/uploads/2019/12/Logo-Vans.png"  },  
+  {    "id": 8,    "brand": "Fila",    "logo": "https://cdn.shopify.com/s/files/1/0309/0435/2812/files/FILA_Social.png?v=1624401373"  },  
+  {    "id": 9,    "brand": "Under Armour",    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Under_armour_logo.svg/250px-Under_armour_logo.svg.png"  },  
+  {    "id": 10,   "brand": "ASICS",    "logo": "https://www.asics.com/on/demandware.static/Sites-asics-eu-Site/-/default/dw6703b786/images/og-ASICS.jpg"  }
+]

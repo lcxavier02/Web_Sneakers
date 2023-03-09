@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Puma Basket Classic",
+    "description": "The Puma Basket Classic is a casual sneaker with a timeless design that features a clean and simple leather upper.",
+    "image": "https://m.media-amazon.com/images/I/614uDvpJDeL._AC_SX395_.jpg",
+    "price": 65.0
+  },
+  {
+    "id": 2,
+    "name": "New Balance 990v4",
+    "description": "The New Balance 990v4 is a comfortable and supportive running shoe that features a durable pigskin and mesh upper.",
+    "image": "https://m.media-amazon.com/images/I/71IkIz59JSL._AC_UF1000,1000_QL80_.jpg",
+    "price": 174.99
+  },
+  {
+    "id": 3,
+    "name": "Saucony Jazz Original Vintage",
+    "description": "The Saucony Jazz Original Vintage is a classic running sneaker that features a combination of suede and nylon in the upper.",
+    "image": "https://s7d4.scene7.com/is/image/WolverineWorldWide/S60368-40_1?wid=584&hei=484&fmt=jpeg&qlt=80,0&op_sharpen=0&resMode=bilin&op_usm=0.5,1.0,8,0&iccEmbed=0&printRes=72",
+    "price": 70.0
+  },
+  {
+    "id": 4,
+    "name": "Adidas Originals SL 72",
+    "description": "The Adidas Originals SL 72 is a retro running sneaker that features a lightweight and breathable nylon upper.",
+    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/04a42bfe871d473992aaab0901229048_9366/Tenis_SL_72_Gris_EG5349.jpg",
+    "price": 79.99
+  },
+  {
+    "id": 5,
+    "name": "Reebok Classic Leather",
+    "description": "The Reebok Classic Leather is a versatile sneaker that features a soft and supportive leather upper.",
+    "image": "https://dpjye2wk9gi5z.cloudfront.net/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/zoom/1013027-0101V1.jpg",
+    "price": 70.0
+  },
+  {
+    "id": 6,
+    "name": "Asics Gel-Kayano 5 OG",
+    "description": "The Asics Gel-Kayano 5 OG is a retro running sneaker that features a unique design with a bulky silhouette and a combination of leather and mesh in the upper.",
+    "image": "https://images.asics.com/is/image/asics/1022A142_100_SR_RT_GLB?$sfcc-product$",
+    "price": 120.0
+  },
+  {
+    "id": 7,
+    "name": "Fila Original Fitness",
+    "description": "The Fila Original Fitness is a retro tennis sneaker that features a clean and simple design with a leather upper and perforated details.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_825197-MLM31947662869_082019-O.jpg",
+    "price": 75.00
+  },
+  {
+    "id": 8,
+    "name": "Nike Air Max 270 React ENG",
+    "description": "The Nike Air Max 270 React ENG combines a full-length React foam midsole with a 270 Max Air unit for unrivaled comfort and style.",
+    "image": "https://mundodextivo.com/12643-large_default/tenis-nike-air-max-270-react-eng-ck2595001.jpg",
+    "price": 150.0
+  },
+  {
+    "id": 9,
+    "name": "Adidas Ultraboost 21",
+    "description": "The Adidas Ultraboost 21 features a sleek design with a lightweight, breathable upper and responsive Boost midsole for a comfortable ride.",
+    "image": "https://assets.adidas.com/images/w_320,f_auto,q_auto,fl_lossy,c_fill,g_auto/429a510e09fe4039ba33ac770135d8be_9366/Tenis_Ultraboost_21_Blanco_FY0377_01_standard.jpg",
+    "price": 180.0
+  },
+  {
+    "id": 10,
+    "name": "Converse Chuck Taylor All Star",
+    "description": "The Converse Chuck Taylor All Star is a classic sneaker that pairs well with any outfit.",
+    "image": "https://m.media-amazon.com/images/I/71e91UBfLVL._AC_SL1500_.jpg",
+    "price": 55.0
+  },
+  {
+    "id": 11,
+    "name": "New Balance Fresh Foam 1080v11",
+    "description": "The New Balance Fresh Foam 1080v11 is designed with a precision-engineered Fresh Foam midsole that delivers an ultra-cushioned, lightweight ride.",
+    "image": "https://m.media-amazon.com/images/I/81E3hjflzvS._AC_SX395_.jpg",
+    "price": 150.0
+  },
+  {
+    "id": 12,
+    "name": "Puma Cali Sport Mix",
+    "description": "The Puma Cali Sport Mix is a modern take on the classic Puma California sneaker, featuring a mix of materials and bold color blocking.",
+    "image": "https://m.media-amazon.com/images/I/71FJapWVBLL._AC_SL1500_.jpg",
+    "price": 80.0
+  },
+  {
+    "id": 13,
+    "name": "Reebok Classic Leather Legacy",
+    "description": "The Reebok Classic Leather Legacy features a clean, timeless design with a soft leather upper and a cushioned EVA midsole for all-day comfort.",
+    "image": "https://m.media-amazon.com/images/I/719TfEKWsRL._AC_SL1500_.jpg",
+    "price": 80.0
+  },
+  {
+    "id": 14,
+    "name": "Vand Old Skool",
+    "description": "The Saucony Jazz Original Vintage is a retro-inspired sneaker",
+    "image": "https://ss550.liverpool.com.mx/xl/1066741835.jpg",
+    "price": 80.0
+  }
+]
